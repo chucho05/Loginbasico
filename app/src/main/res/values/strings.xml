@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login basico</string>
+    <string name="textView_titulo">Login Basico</string>
+    <string name="editText_usuario">Usuario</string>
+    <string name="editText_contraseña">Contraseña</string>
+    <string name="Button_login">Login</string>
+</resources>
